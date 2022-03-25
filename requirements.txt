@@ -1,0 +1,4 @@
+opencv-python==4.5.5.62
+pandas==1.1.5
+scikit-image==0.17.2
+tensorflow==2.5.0
